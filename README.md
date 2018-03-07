@@ -16,3 +16,13 @@ git commit -m "notes" myfile.txt
 
 if stuck in VIM: 
 :qw! (if super stuck!)
+
+Note:
+dont store large files in git, just the notes!  will take over git repo 
+
+to ignore certain large data files in a repo, add them to:
+<.gitignore> file 
+
+This file should be in the parent repo folder
+
+
