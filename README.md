@@ -1,3 +1,4 @@
+
 # git-notes
 
 These are notes from the Software Carpentry class on March 6th, 2018 by Chris Deboever on github
@@ -12,3 +13,6 @@ git push -> syncs with github
 
 combined add/commit for tracked files:
 git commit -m "notes" myfile.txt
+
+if stuck in VIM: 
+:qw! (if super stuck!)
